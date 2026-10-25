@@ -1,0 +1,29 @@
+
+body {
+    background-color: #15121f;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: #b794ff;
+    font-size: 40px;
+}
+
+h2 {
+    color: #b794ff;
+    margin-top: 40px;
+}
+
+h3 {
+    color: #d8c7ff;
+}
+
+p {
+    font-size: 18px;
+}
+
+hr {
+    border-color: #6c4caf;
+}
