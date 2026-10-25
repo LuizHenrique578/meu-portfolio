@@ -1,23 +1,23 @@
 
 body {
-    background-color: #15121f;
+    background-color: black;
     color: white;
     font-family: Arial;
     text-align: center;
 }
 
 h1 {
-    color: #b794ff;
+    color: #00aaff;
     font-size: 40px;
 }
 
 h2 {
-    color: #b794ff;
+    color: #00aaff;
     margin-top: 40px;
 }
 
 h3 {
-    color: #d8c7ff;
+    color: #66ccff;
 }
 
 p {
@@ -25,5 +25,5 @@ p {
 }
 
 hr {
-    border-color: #6c4caf;
+    border-color: #0088cc;
 }
